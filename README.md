@@ -1,0 +1,2 @@
+http-bare-project
+=================
